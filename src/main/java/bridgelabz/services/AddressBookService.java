@@ -8,10 +8,9 @@
  * @since 09-07-2021
  * ****************************************************************************
  */
-package bridgelabz;
+package bridgelabz.services;
 
-public class AddressBookWorkshop {
-    public static void main(String[] args) {
-        System.out.println("Welcome to Address Book System");
-    }
+public class AddressBookService {
+
+
 }
